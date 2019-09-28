@@ -1,0 +1,6 @@
+framework module Pods_HungR {
+  umbrella header "Pods-HungR-umbrella.h"
+
+  export *
+  module * { export * }
+}
